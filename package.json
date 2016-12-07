@@ -2,9 +2,13 @@
   "name": "deploy-github-release-with-dockerhub-to-azure",
   "version": "1.0.0",
   "scripts": {
-    "test": "htmllint src/*.html"
+    "linter:html": "htmllint src/*.html",
+    "linter:editorconfig": "editorconfig-tools check src/*.html",
+    "test": "npm run linter:html && npm run linter:editorconfig"
   },
   "devDependencies": {
+    "editorconfig": "^0.13.2",
+    "editorconfig-tools": "^0.1.1",
     "htmllint": "^0.4.0",
     "htmllint-cli": "0.0.5"
   }

@@ -4,6 +4,9 @@
     "attr-no-dup": true,
     "attr-req-value": true,
 
+    "indent-style": "spaces",
+    "indent-width": "2",
+
     "doctype-first": "smart",
     "doctype-html5": true,
     "head-req-title": true
