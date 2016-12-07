@@ -1,3 +1,3 @@
 # Deploy flow
 
-![](https://travis-ci.org/itspoma/deploy-github-release-with-dockerhub-to-azure.svg?branch=master)
+![](https://api.travis-ci.org/itspoma/deploy-github-release-with-dockerhub-to-azure.svg?branch=master)
