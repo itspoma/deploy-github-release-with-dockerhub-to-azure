@@ -2,6 +2,10 @@
   "name": "deploy-github-release-with-dockerhub-to-azure",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"All is clean, since we haven't tests here\""
+    "test": "htmllint src/*.html"
+  },
+  "devDependencies": {
+    "htmllint": "^0.4.0",
+    "htmllint-cli": "0.0.5"
   }
 }

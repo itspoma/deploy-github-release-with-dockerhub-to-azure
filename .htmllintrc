@@ -1,0 +1,10 @@
+{
+    "plugins": [],
+
+    "attr-no-dup": true,
+    "attr-req-value": true,
+
+    "doctype-first": "smart",
+    "doctype-html5": true,
+    "head-req-title": true
+}
