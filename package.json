@@ -1,0 +1,7 @@
+{
+  "name": "deploy-github-release-with-dockerhub-to-azure",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"All is clean, since we haven't tests here\""
+  }
+}
