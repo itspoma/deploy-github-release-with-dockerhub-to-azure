@@ -3,7 +3,6 @@
 
 ![](https://img.shields.io/github/tag/itspoma/deploy-github-release-with-dockerhub-to-azure.svg?style=flat-square)
 ![](https://img.shields.io/github/release/itspoma/deploy-github-release-with-dockerhub-to-azure.svg?style=flat-square)
-
 ![](https://img.shields.io/github/issues/itspoma/deploy-github-release-with-dockerhub-to-azure.svg?style=flat-square)
 ![](https://img.shields.io/github/issues-pr/itspoma/deploy-github-release-with-dockerhub-to-azure.svg?style=flat-square)
 
